@@ -69,11 +69,10 @@ h3 {
 
 .container-img-2 {
   line-height: 2;
-
 }
 
 .description {
-  margin-top: 4rem;
+  margin-top: 3rem;
   font-size: var(--font-sm);
 }
 
