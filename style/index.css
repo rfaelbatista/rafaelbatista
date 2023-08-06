@@ -105,13 +105,13 @@ h3 {
   text-align: start;
 }
 
-.insta {
-  text-decoration: none;
-  color: #000;
+.li-footer {
+  margin-bottom: 4rem;
 }
 
-.portfolio {
-  margin-top: 4rem;
+.link-footer {
+  text-decoration: none;
+  color: #000;
 }
 
 .top a {
