@@ -72,8 +72,9 @@ h3 {
 }
 
 .description {
-  margin-top: 3rem;
+  margin-top: 2rem;
   font-size: var(--font-sm);
+  max-width: 600px;
 }
 
 .subtitle {
