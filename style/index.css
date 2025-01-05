@@ -41,56 +41,10 @@ h3 {
   margin: 0 auto;
 }
 
-.simbolo-japones-bio {
-  text-decoration: none;
-  color: #000;
-}
-
 .title-cena {
   font-size: var(--font-l);
   margin: 34.375rem auto 4rem auto;
   max-width: 700px;
-}
-
-.galery {
-  margin-top: 550px;
-  display: flex;
-  flex-direction: column;
-  background-color: #000;
-  /* width: auto; */
-}
-
-.works-title {
-  font-size: var(--font-l);
-  color: #fff;
-  margin-top: 200px;
-  max-width: 700px;
-  margin: 150px auto 150px auto;
-}
-
-.galery img {
-  width: 100%;
-  max-width: 600px;
-  height: 400px;
-}
-
-.container-img {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 15rem;
-  margin-bottom: 150px;
-}
-
-.container-img-2 {
-  line-height: 2;
-}
-
-.description {
-  margin-top: 1.5rem;
-  font-size: var(--font-sm);
-  max-width: 600px;
-  color: #eeeeee;
 }
 
 .subtitle {
