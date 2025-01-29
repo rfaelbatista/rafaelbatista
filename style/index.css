@@ -37,14 +37,14 @@ h3 {
   font-size: var(--font-sm);
   line-height: 1.9;
   text-align: justify;
-  max-width: 1200px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
 .title-cena {
   font-size: var(--font-l);
   margin: 34.375rem auto 4rem auto;
-  max-width: 1200px;
+  max-width: 700px;
 }
 
 .subtitle {
@@ -52,7 +52,7 @@ h3 {
 }
 
 .cv-list {
-  max-width: 1200px;
+  max-width: 700px;
   margin: 400px auto 0 auto;
   font-size: var(--font-sm);
   list-style: none;
@@ -61,7 +61,7 @@ h3 {
 }
 
 .title-performer-diretor-diretor-corporal {
-  max-width: 1200px;
+  max-width: 700px;
   margin: 400px auto 0 auto;
   font-size: var(--font-l);
   margin-bottom: 4rem;
@@ -75,7 +75,7 @@ h3 {
   list-style: none;
   font-size: var(--font-sm);
   text-align: start;
-  max-width: 1200px;
+  max-width: 700px;
   margin: 0px auto 0 auto;
 }
 
