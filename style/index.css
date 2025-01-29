@@ -49,7 +49,7 @@ h3 {
 
 .cv-list {
   max-width: 700px;
-  margin: 0px auto 0 auto;
+  margin: 30px auto 0 auto;
   font-size: var(--font-xsm);
   list-style: none;
   line-height: 1.9;
@@ -58,7 +58,7 @@ h3 {
 
 .title-performer-diretor-diretor-corporal {
   max-width: 700px;
-  margin: 0px auto 0 auto;
+  margin: 20px auto 0 auto;
   font-size: var(--font-sm);
   margin-bottom: 4rem;
 }
