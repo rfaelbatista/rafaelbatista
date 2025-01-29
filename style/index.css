@@ -3,7 +3,7 @@ body {
   color: #111;
   margin: 0;
   padding: 0;
-  margin-top: 160px;
+  margin-top: 150px;
 }
 
 h1,
@@ -28,7 +28,7 @@ h3 {
 }
 
 .header-title {
-  font-size: var(--font-xl);
+  font-size: var(--font-sm);
   margin: 0 auto;
   max-width: 700px;
 }
@@ -43,7 +43,7 @@ h3 {
 
 .title-cena {
   font-size: var(--font-sm);
-  margin: 34.375rem auto 4rem auto;
+  margin: 10rem auto 0rem auto;
   max-width: 700px;
 }
 
