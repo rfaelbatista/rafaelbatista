@@ -54,7 +54,7 @@ h3 {
 .cv-list {
   max-width: 700px;
   margin: 400px auto 0 auto;
-  font-size: var(--font-sm);
+  font-size: var(--font-xsm);
   list-style: none;
   line-height: 1.9;
   text-align: justify;
@@ -63,7 +63,7 @@ h3 {
 .title-performer-diretor-diretor-corporal {
   max-width: 700px;
   margin: 400px auto 0 auto;
-  font-size: var(--font-l);
+  font-size: var(--font-sm);
   margin-bottom: 4rem;
 }
 
@@ -73,7 +73,7 @@ h3 {
 
 .contact-list {
   list-style: none;
-  font-size: var(--font-sm);
+  font-size: var(--font-xsm);
   text-align: start;
   max-width: 700px;
   margin: 0px auto 0 auto;
@@ -91,7 +91,7 @@ h3 {
 .top a {
   text-decoration: none;
   text-align: center;
-  font-size: var(--font-sm);
+  font-size: var(--font-xsm);
   color: #000;
 }
 

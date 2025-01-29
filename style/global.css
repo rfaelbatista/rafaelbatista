@@ -1,6 +1,6 @@
 :root {
-    --font-xl: clamp(1.5rem, 10vw, 3.8rem);
-    --font-l: clamp(1.5rem, 3vw, 2.2rem);
-    --font-sm: clamp(0.1rem, 3vw, 0.8rem);
-    --font-xsm: clamp(0.1rem, 2vw, 0.8rem);
-  }
+  --font-xl: clamp(1.5rem, 10vw, 3.8rem);
+  --font-l: clamp(1.5rem, 3vw, 2.2rem);
+  --font-sm: clamp(0.1rem, 3vw, 0.8rem);
+  --font-xsm: clamp(0.1rem, 2vw, 0.7rem);
+}
