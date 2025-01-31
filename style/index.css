@@ -43,7 +43,7 @@ h3 {
 
 .title-cena {
   font-size: var(--font-sm);
-  margin: 10rem auto 0rem auto;
+  margin: 5rem auto 0rem auto;
   max-width: 700px;
 }
 
@@ -58,7 +58,7 @@ h3 {
 
 .title-performer-diretor-diretor-corporal {
   max-width: 700px;
-  margin: 20px auto 0 auto;
+  margin: 100px auto 0 auto;
   font-size: var(--font-sm);
   margin-bottom: 4rem;
 }
